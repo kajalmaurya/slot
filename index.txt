@@ -1,8 +1,8 @@
 <html>
   <head>
-	<title>wipro india</title>
+	<title>wipro canada</title>
   </head>
   <body>
-	<h2>website is from cental india:Deployed in production</h2>
+	<h2>website is from East us:Deployed in production</h2>
   </body>
 </html>
